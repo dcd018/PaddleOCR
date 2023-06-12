@@ -4,7 +4,7 @@ imgaug
 pyclipper
 lmdb
 tqdm
-numpy
+numpy==1.24.3
 visualdl
 rapidfuzz
 opencv-contrib-python==4.4.0.46
